@@ -1,0 +1,12 @@
+{
+  "name": "create-scripts2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "ChenMing <minc33@163.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
